@@ -1,0 +1,89 @@
+;customerID;gender;SeniorCitizen;Partner;Dependents;tenure;PhoneService;MultipleLines;InternetService;OnlineSecurity;OnlineBackup;DeviceProtection;TechSupport;StreamingTV;StreamingMovies;Contract;PaperlessBilling;PaymentMethod;MonthlyCharges;TotalCharges;Churn;PossibleChurner;Churner_probability;Tier
+200;9323-HGFWY;Female;0;Yes;No;27;Yes;No;Fiber optic;Yes;No;No;Yes;Yes;Yes;One year;Yes;Credit card (automatic);101.9;2681.15;No;1;0.6534044961908434;Tier 1
+368;9571-EDEBV;Male;0;Yes;No;71;Yes;Yes;Fiber optic;No;No;Yes;No;Yes;Yes;One year;Yes;Credit card (automatic);98.65;6962.85;No;1;0.7013901557804377;Tier 1
+975;2834-JRTUA;Male;0;No;No;71;Yes;Yes;Fiber optic;Yes;No;Yes;Yes;Yes;Yes;Two year;Yes;Electronic check;108.05;7532.15;Yes;1;0.7185767202614819;Tier 1
+1555;9651-GTSAQ;Female;0;Yes;No;53;Yes;No;Fiber optic;Yes;Yes;Yes;No;Yes;Yes;One year;Yes;Bank transfer (automatic);106.1;5769.75;Yes;1;0.518478573292073;Tier 1
+1794;5377-NDTOU;Female;0;Yes;Yes;71;Yes;Yes;DSL;Yes;Yes;Yes;Yes;Yes;Yes;Two year;No;Mailed check;91.05;6293.75;No;1;0.609231798591417;Tier 1
+1988;3424-NMNBO;Male;1;Yes;No;58;Yes;Yes;Fiber optic;Yes;Yes;Yes;No;Yes;Yes;One year;Yes;Electronic check;108.85;6287.25;Yes;1;0.6594456791506634;Tier 1
+2045;7519-JTWQH;Female;0;No;No;69;Yes;Yes;Fiber optic;No;Yes;Yes;Yes;Yes;Yes;Two year;Yes;Bank transfer (automatic);110.5;7455.45;No;1;0.7005379740626126;Tier 1
+2341;4304-TSPVK;Female;0;Yes;No;68;Yes;Yes;Fiber optic;Yes;Yes;Yes;Yes;Yes;Yes;Two year;No;Bank transfer (automatic);114.9;7843.55;No;1;0.5321767507988138;Tier 1
+2537;8670-ERCJH;Male;0;No;No;72;Yes;Yes;Fiber optic;Yes;Yes;Yes;Yes;Yes;Yes;Two year;No;Bank transfer (automatic);113.4;8164.1;No;1;0.6205945265357404;Tier 1
+3339;8690-ZVLCL;Female;0;Yes;Yes;68;Yes;Yes;DSL;Yes;Yes;Yes;Yes;Yes;Yes;Two year;No;Credit card (automatic);88.0;6161.9;No;1;0.7182770999375044;Tier 1
+3393;4683-WYDOU;Male;0;Yes;No;62;Yes;Yes;Fiber optic;No;No;Yes;Yes;Yes;Yes;Two year;Yes;Bank transfer (automatic);107.6;6912.7;No;1;0.6584567414926886;Tier 1
+3514;6993-YCOBK;Male;0;Yes;Yes;60;Yes;Yes;Fiber optic;Yes;No;Yes;Yes;Yes;Yes;Two year;Yes;Electronic check;110.6;6586.85;No;1;0.7746561178928356;Tier 1
+3611;5693-PIPCS;Male;0;No;No;41;Yes;No;Fiber optic;No;Yes;No;Yes;Yes;Yes;Two year;Yes;Credit card (automatic);99.65;4220.35;No;1;0.6215904130515149;Tier 1
+3861;0479-HMSWA;Female;0;No;Yes;26;Yes;No;Fiber optic;No;Yes;Yes;Yes;Yes;Yes;Two year;Yes;Electronic check;105.45;2715.3;No;1;0.6371614902349267;Tier 1
+3869;1357-BIJKI;Male;0;Yes;No;50;Yes;Yes;Fiber optic;No;Yes;No;No;Yes;Yes;One year;Yes;Electronic check;98.25;4858.7;No;1;0.5495812825870161;Tier 1
+4026;0266-GMEAO;Male;0;Yes;Yes;72;Yes;Yes;Fiber optic;Yes;Yes;Yes;Yes;Yes;Yes;Two year;Yes;Credit card (automatic);114.3;8058.55;No;1;0.7175109267775339;Tier 1
+4051;8152-VETUR;Female;0;Yes;No;72;Yes;Yes;Fiber optic;No;Yes;No;No;Yes;Yes;Two year;Yes;Credit card (automatic);97.7;6869.7;No;1;0.5270498858888765;Tier 1
+4205;6427-FEFIG;Female;0;Yes;Yes;24;Yes;Yes;DSL;Yes;No;Yes;No;Yes;Yes;Two year;No;Credit card (automatic);78.6;1846.65;No;1;0.6809459014396665;Tier 1
+4291;2789-CZANW;Female;0;Yes;Yes;64;Yes;Yes;Fiber optic;Yes;Yes;No;Yes;Yes;Yes;Two year;No;Bank transfer (automatic);110.3;6997.3;No;1;0.5007737733745994;Tier 1
+4410;0848-ZGQIJ;Female;0;Yes;No;16;Yes;No;Fiber optic;No;Yes;No;No;Yes;Yes;Month-to-month;Yes;Bank transfer (automatic);94.65;1461.15;No;1;0.7038814683049975;Tier 1
+4554;4329-YPDDQ;Male;0;No;No;20;Yes;No;Fiber optic;Yes;Yes;Yes;Yes;Yes;Yes;Month-to-month;Yes;Bank transfer (automatic);108.2;2203.7;No;1;0.6525750013681181;Tier 1
+4567;2697-NQBPF;Male;0;No;No;34;Yes;Yes;Fiber optic;No;Yes;No;Yes;Yes;Yes;Month-to-month;Yes;Electronic check;105.35;3540.65;No;1;0.6387229769844208;Tier 1
+4595;2211-RMNHO;Female;0;Yes;Yes;68;Yes;Yes;DSL;No;Yes;Yes;Yes;Yes;Yes;Two year;No;Bank transfer (automatic);85.3;5560;No;1;0.5005944751192818;Tier 1
+4659;6616-AALSR;Female;0;Yes;Yes;65;Yes;Yes;Fiber optic;Yes;No;Yes;No;Yes;Yes;Two year;Yes;Credit card (automatic);104.3;6725.3;No;1;0.6663436603558818;Tier 1
+4679;8218-FFJDS;Female;0;Yes;No;72;Yes;Yes;DSL;Yes;Yes;No;Yes;Yes;Yes;Two year;Yes;Bank transfer (automatic);86.4;6058.95;No;1;0.5010056588443774;Tier 1
+5048;1360-JYXKQ;Female;1;Yes;No;54;Yes;No;Fiber optic;No;No;Yes;Yes;Yes;Yes;One year;Yes;Electronic check;99.1;5437.1;No;1;0.7739743473185287;Tier 1
+5298;5647-FXOTP;Female;1;Yes;No;60;Yes;Yes;Fiber optic;No;Yes;Yes;No;Yes;Yes;Month-to-month;Yes;Electronic check;105.9;6401.25;No;1;0.7152949622933128;Tier 1
+5611;6847-KJLTS;Female;1;Yes;No;58;Yes;Yes;Fiber optic;No;No;No;Yes;Yes;Yes;Month-to-month;Yes;Bank transfer (automatic);100.4;5749.8;No;1;0.6663246919276746;Tier 1
+5657;3096-GKWEB;Male;0;Yes;No;18;Yes;Yes;Fiber optic;No;No;No;No;Yes;Yes;Month-to-month;Yes;Electronic check;94.75;1691.9;No;1;0.7311871106153819;Tier 1
+5742;5135-GRQJV;Male;1;Yes;No;72;Yes;Yes;Fiber optic;Yes;Yes;Yes;Yes;Yes;Yes;Two year;Yes;Mailed check;114.5;8331.95;No;1;0.7247077953141845;Tier 1
+5748;4686-UXDML;Female;0;No;No;21;Yes;Yes;Fiber optic;No;Yes;No;No;Yes;Yes;Month-to-month;Yes;Credit card (automatic);99.85;1992.55;No;1;0.5183858094831005;Tier 1
+6180;0201-MIBOL;Female;1;No;No;66;Yes;Yes;Fiber optic;Yes;No;No;No;Yes;Yes;Two year;Yes;Bank transfer (automatic);102.4;6471.85;No;1;0.6586495095861749;Tier 1
+6185;8033-VCZGH;Male;0;Yes;No;50;Yes;Yes;Fiber optic;Yes;No;Yes;No;Yes;Yes;One year;Yes;Electronic check;103.95;5231.3;No;1;0.5561134844435037;Tier 1
+6243;3544-FBCAS;Female;0;Yes;Yes;72;Yes;Yes;DSL;Yes;Yes;Yes;No;Yes;Yes;Two year;Yes;Credit card (automatic);83.6;5959.3;No;1;0.7090266404176603;Tier 1
+6398;3259-FDWOY;Male;0;Yes;Yes;71;Yes;Yes;Fiber optic;No;Yes;Yes;No;Yes;Yes;Two year;Yes;Bank transfer (automatic);106.0;7723.7;Yes;1;0.55035640447613;Tier 1
+6572;6258-PVZWJ;Male;0;Yes;No;68;Yes;Yes;DSL;Yes;Yes;Yes;Yes;Yes;Yes;Two year;Yes;Credit card (automatic);90.8;6302.85;No;1;0.6951033425606425;Tier 1
+6579;3938-YFPXD;Male;0;No;No;72;Yes;Yes;DSL;Yes;No;Yes;Yes;Yes;Yes;Two year;No;Credit card (automatic);84.3;5997.1;No;1;0.6870761392942836;Tier 1
+6947;2898-MRKPI;Male;0;Yes;Yes;68;Yes;Yes;Fiber optic;No;Yes;No;No;Yes;Yes;One year;Yes;Credit card (automatic);101.05;6770.5;No;1;0.5184827897986266;Tier 1
+6992;0218-QNVAS;Male;0;Yes;Yes;71;Yes;Yes;Fiber optic;No;Yes;No;No;Yes;Yes;One year;No;Bank transfer (automatic);100.55;7113.75;No;1;0.6666599407571185;Tier 1
+321;9880-TDQAC;Female;0;Yes;Yes;72;No;No phone service;DSL;No;Yes;Yes;Yes;Yes;Yes;Two year;Yes;Electronic check;60.0;4264;No;1;0.5256426160799405;Tier 2
+438;5886-VLQVU;Male;0;Yes;No;35;Yes;Yes;Fiber optic;No;No;No;Yes;No;Yes;Month-to-month;Yes;Bank transfer (automatic);89.85;3161.2;No;1;0.6247778205477924;Tier 2
+444;1910-FMXJM;Female;0;Yes;No;36;Yes;No;Fiber optic;No;No;No;No;No;Yes;Month-to-month;No;Electronic check;80.4;2937.65;No;1;0.5578246342773814;Tier 2
+545;7129-AZJDE;Male;0;Yes;Yes;34;Yes;No;Fiber optic;No;No;No;No;No;Yes;One year;Yes;Bank transfer (automatic);78.95;2647.2;No;1;0.5814524891996257;Tier 2
+717;9944-AEXBM;Male;0;No;No;32;Yes;Yes;Fiber optic;No;No;No;No;No;Yes;Month-to-month;Yes;Bank transfer (automatic);85.65;2664.3;No;1;0.6190047716540412;Tier 2
+729;2753-JMMCV;Male;0;No;No;65;Yes;Yes;DSL;No;Yes;Yes;Yes;No;Yes;Two year;Yes;Credit card (automatic);74.2;4805.65;No;1;0.6572014700961047;Tier 2
+758;2189-WWOEW;Female;0;No;Yes;15;Yes;No;Fiber optic;No;Yes;No;No;No;Yes;Month-to-month;Yes;Bank transfer (automatic);85.9;1269.55;Yes;1;0.5473252616860752;Tier 2
+925;5393-HJZSM;Female;0;Yes;Yes;32;Yes;No;DSL;Yes;Yes;Yes;Yes;No;Yes;Month-to-month;No;Bank transfer (automatic);76.3;2404.15;No;1;0.5815055942571399;Tier 2
+1232;1689-MRZQR;Male;0;Yes;Yes;34;Yes;No;Fiber optic;No;No;No;No;Yes;No;Month-to-month;No;Electronic check;78.3;2564.3;Yes;1;0.523276281230354;Tier 2
+1309;7831-QGOXH;Female;0;No;No;18;Yes;Yes;Fiber optic;No;No;No;No;Yes;No;Month-to-month;Yes;Electronic check;85.2;1553.9;Yes;1;0.7175177731963478;Tier 2
+1515;1921-KYSAY;Female;0;No;No;41;Yes;Yes;DSL;No;No;Yes;Yes;No;Yes;One year;Yes;Electronic check;68.6;2877.05;No;1;0.5392695423402581;Tier 2
+1899;8563-OYMQY;Male;0;No;No;17;Yes;No;Fiber optic;No;Yes;Yes;No;No;Yes;Month-to-month;Yes;Credit card (automatic);90.95;1612.2;No;1;0.5991047074360478;Tier 2
+2142;4223-BKEOR;Female;0;No;Yes;21;Yes;No;DSL;Yes;No;Yes;No;No;Yes;One year;No;Mailed check;64.85;1336.8;No;1;0.6766070660514237;Tier 2
+2162;6635-CPNUN;Male;0;Yes;No;28;Yes;Yes;Fiber optic;No;Yes;Yes;No;Yes;No;Month-to-month;No;Credit card (automatic);96.6;2684.35;No;1;0.6979101720417379;Tier 2
+2489;1032-MAELW;Female;0;Yes;Yes;68;Yes;Yes;DSL;Yes;Yes;Yes;Yes;No;Yes;One year;Yes;Electronic check;78.45;5333.35;No;1;0.7097184330008295;Tier 2
+2560;8178-EYZUO;Male;0;No;No;46;Yes;Yes;Fiber optic;Yes;Yes;No;No;No;Yes;Month-to-month;Yes;Electronic check;93.7;4154.8;Yes;1;0.7739802563562161;Tier 2
+2567;0407-BDJKB;Male;0;Yes;No;60;Yes;Yes;Fiber optic;No;Yes;Yes;No;Yes;No;Month-to-month;Yes;Electronic check;95.75;5742.9;Yes;1;0.5399571030696324;Tier 2
+2704;9640-ZSLDC;Female;0;Yes;Yes;53;Yes;No;DSL;No;No;Yes;No;No;Yes;One year;No;Credit card (automatic);60.6;3297;No;1;0.5041675438469022;Tier 2
+3119;5307-DZCVC;Female;1;Yes;No;32;Yes;Yes;Fiber optic;No;No;No;No;Yes;No;Month-to-month;Yes;Credit card (automatic);85.95;2628.6;Yes;1;0.7110943647026882;Tier 2
+3327;9494-BDNNC;Male;0;Yes;No;66;Yes;Yes;Fiber optic;No;Yes;Yes;No;No;Yes;One year;No;Electronic check;95.3;6273.4;No;1;0.7175075035304004;Tier 2
+3555;6331-EWIEB;Male;0;No;No;20;Yes;Yes;Fiber optic;No;No;No;No;Yes;No;Month-to-month;Yes;Electronic check;85.25;1734.5;Yes;1;0.7186119032604836;Tier 2
+3578;4795-WRNVT;Female;0;No;No;40;Yes;No;DSL;Yes;Yes;No;No;Yes;No;Month-to-month;No;Mailed check;65.1;2586;No;1;0.570363867670515;Tier 2
+4253;9054-FOWNV;Male;0;Yes;Yes;22;Yes;Yes;Fiber optic;No;No;Yes;No;Yes;No;Month-to-month;Yes;Electronic check;88.75;1885.15;No;1;0.5819865143984244;Tier 2
+4398;4915-BFSXL;Male;0;Yes;Yes;70;Yes;Yes;DSL;Yes;No;Yes;No;Yes;No;Two year;No;Credit card (automatic);68.95;4858.7;No;1;0.635546206098245;Tier 2
+4616;4338-EYCER;Male;0;Yes;No;21;Yes;No;DSL;No;No;No;No;Yes;No;Month-to-month;No;Bank transfer (automatic);54.6;1125.2;No;1;0.7115070816819712;Tier 2
+4836;0584-BJQGZ;Female;0;No;No;25;Yes;Yes;DSL;Yes;Yes;Yes;Yes;Yes;No;Month-to-month;Yes;Bank transfer (automatic);78.35;1837.9;No;1;0.5084733450764385;Tier 2
+4951;5117-IFGPS;Male;1;Yes;No;29;Yes;Yes;Fiber optic;No;No;No;No;No;Yes;Month-to-month;Yes;Electronic check;84.3;2357.75;No;1;0.6281709037202501;Tier 2
+5672;5915-DGNVC;Female;0;Yes;No;49;Yes;Yes;DSL;Yes;Yes;Yes;No;No;Yes;One year;No;Electronic check;71.8;3472.05;No;1;0.6816243350388458;Tier 2
+5704;0168-XZKBB;Female;0;Yes;No;19;Yes;Yes;Fiber optic;No;No;No;No;Yes;No;Month-to-month;Yes;Electronic check;86.85;1564.4;No;1;0.5961055796412329;Tier 2
+6396;2974-GGUXS;Female;1;Yes;No;36;Yes;Yes;Fiber optic;No;Yes;No;No;Yes;No;Month-to-month;Yes;Credit card (automatic);91.95;3301.05;No;1;0.5334041450235393;Tier 2
+6510;0572-ZJKLT;Female;0;Yes;Yes;46;Yes;Yes;Fiber optic;Yes;No;Yes;Yes;No;Yes;Two year;No;Mailed check;99.65;4630.2;No;1;0.6200409955961963;Tier 2
+6871;4070-OKWVH;Female;0;Yes;No;52;Yes;Yes;Fiber optic;No;Yes;Yes;No;Yes;No;Month-to-month;No;Bank transfer (automatic);94.6;5025.8;No;1;0.6656479514090403;Tier 2
+6890;7470-DYNOE;Male;0;No;No;53;Yes;No;DSL;No;No;Yes;No;No;Yes;One year;Yes;Electronic check;61.1;3357.9;No;1;0.5187273426551833;Tier 2
+7028;9281-CEDRU;Female;0;Yes;No;68;Yes;No;DSL;No;Yes;No;Yes;Yes;No;Two year;No;Bank transfer (automatic);64.1;4326.25;No;1;0.7089183774178496;Tier 2
+354;0623-IIHUG;Female;1;No;No;21;No;No phone service;DSL;Yes;No;No;No;Yes;No;Month-to-month;Yes;Electronic check;41.9;840.1;Yes;1;0.5622226921104334;Tier 3
+462;0880-TKATG;Male;0;Yes;Yes;4;Yes;Yes;Fiber optic;No;No;Yes;No;Yes;Yes;Month-to-month;No;Electronic check;101.15;385.9;Yes;1;0.7304370525185173;Tier 3
+544;2817-NTQDO;Male;0;No;No;13;No;No phone service;DSL;Yes;No;No;Yes;Yes;No;Month-to-month;Yes;Credit card (automatic);45.55;597;Yes;1;0.693053696414351;Tier 3
+901;9734-YWGEX;Female;0;No;No;9;Yes;Yes;Fiber optic;No;No;Yes;No;Yes;Yes;Month-to-month;No;Credit card (automatic);98.3;923.5;Yes;1;0.6103052995664815;Tier 3
+1159;4086-YQSNZ;Female;1;Yes;No;3;Yes;No;Fiber optic;No;No;No;No;Yes;No;Month-to-month;Yes;Electronic check;80.4;224.05;Yes;1;0.6888780050778238;Tier 3
+1998;7615-ESMYF;Female;0;Yes;No;2;No;No phone service;DSL;No;No;No;No;Yes;Yes;Month-to-month;No;Electronic check;44.6;97.1;Yes;1;0.6855624210271976;Tier 3
+2098;4137-BTIKL;Male;0;No;No;2;Yes;Yes;Fiber optic;Yes;No;No;No;No;Yes;Month-to-month;No;Mailed check;90.75;174.75;No;1;0.7703113692539169;Tier 3
+2270;4140-MUHUG;Female;1;No;No;3;Yes;No;Fiber optic;No;No;Yes;No;Yes;No;Month-to-month;Yes;Electronic check;86.85;220.95;Yes;1;0.6751717455558791;Tier 3
+2921;0564-JJHGS;Male;0;No;No;9;Yes;Yes;Fiber optic;No;No;No;No;Yes;Yes;Month-to-month;Yes;Electronic check;95.5;829.1;Yes;1;0.7506111498872775;Tier 3
+4075;3160-TYXLT;Male;0;No;No;53;No;No phone service;DSL;Yes;Yes;No;No;No;Yes;Month-to-month;Yes;Bank transfer (automatic);46.3;2546.85;No;1;0.5929161820260382;Tier 3
+5876;4844-JJWUY;Female;1;No;No;1;Yes;No;Fiber optic;No;Yes;No;No;No;Yes;Month-to-month;Yes;Electronic check;86.0;86;Yes;1;0.5931979009664938;Tier 3
+6482;5419-JPRRN;Male;0;No;No;1;Yes;Yes;Fiber optic;No;No;Yes;No;Yes;Yes;Month-to-month;Yes;Electronic check;101.45;101.45;Yes;1;0.5896380391480652;Tier 3
+6574;6969-MVBAI;Female;1;No;No;9;Yes;Yes;Fiber optic;No;No;Yes;No;Yes;No;Month-to-month;Yes;Electronic check;90.1;816.8;No;1;0.5964735257885377;Tier 3
+6804;8212-DJRCH;Male;0;Yes;Yes;5;Yes;No;Fiber optic;Yes;No;Yes;No;No;Yes;Month-to-month;Yes;Mailed check;90.35;434.5;No;1;0.5419686397130578;Tier 3
+6866;0295-PPHDO;Male;0;No;No;1;Yes;Yes;Fiber optic;No;No;No;No;Yes;Yes;Month-to-month;Yes;Electronic check;95.45;95.45;Yes;1;0.5819028282561404;Tier 3
